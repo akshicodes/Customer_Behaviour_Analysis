@@ -57,11 +57,6 @@ Created an interactive dashboard showing:
 - Product analysis
 - Key business metrics
 
-## Project Workflow 🔄
-
-The project follows a complete data analytics lifecycle starting from understanding the business problem, cleaning and analyzing data, creating dashboards, generating reports, and publishing the final project.
-
-![Project Workflow](assets/project_workflow.png)
 
 
 ## Key Insights
