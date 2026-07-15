@@ -2,9 +2,11 @@
 
 <h2 align="center">Power BI Dashboard</h2>
 
-<p align="center">
-  <img src="images/dashboard.png" width="900">
+
+ <p align="center">
+  <img src="./Customer_Behaviour_Analysis/images/dashboard.png" width="900">
 </p>
+
 
 ## Overview
 
