@@ -1,8 +1,10 @@
 # Customer Behavior Analysis 📊
 
-## Power BI Dashboard
+<h2 align="center">Power BI Dashboard</h2>
 
-![Power BI Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" width="900">
+</p>
 
 ## Overview
 
